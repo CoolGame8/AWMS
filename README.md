@@ -1,4 +1,4 @@
-# WhatsApp Message Sender
+# automatic whatsapp message sender - AWMS
 
 A Python script that allows you to send WhatsApp messages programmatically using WhatsApp Web automation.
 
