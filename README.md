@@ -25,8 +25,15 @@ pip install -r requirements.txt
 
 ## Usage
 
-### Method 1: Run the interactive script
+### Method 1: Easy Run Script (Recommended)
 ```bash
+./run.sh
+```
+This automatically activates the virtual environment and runs the WhatsApp sender.
+
+### Method 2: Manual Run
+```bash
+source venv/bin/activate
 python whatsapp_sender.py
 ```
 
